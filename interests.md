@@ -1,6 +1,9 @@
+---
 layout: page
-title: "Interests"
-permalink: /interests
+title: Interests
+permalink: /interests/
+---
+
 # Some Intersts of Mine
 
 ## Cars
