@@ -30,7 +30,7 @@ twitter_username: none
 github_username:  chuckenglehart
 
 # Build settings
-theme: minima
+theme: dinky
 plugins:
   - jekyll-feed
 
