@@ -6,7 +6,7 @@ permalink: /interests/
 
 # Some Intersts of Mine
 
-## Cars
+## [Cars](/interests/cars.html)
 Brown manual diesel wagon.
 
 ## Technology
