@@ -30,10 +30,10 @@ twitter_username: none
 github_username:  chuckenglehart
 
 # Build settings
-#theme: minima
-remote_theme: phlow/feeling-responsive
-plugins:
-  - jekyll-remote-theme
+theme: minima
+#remote_theme: phlow/feeling-responsive
+#plugins:
+#  - jekyll-remote-theme
 
 plugins:
   - jekyll-feed
