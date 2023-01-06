@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Cars
+url: /interests/cars/
 ---
 ### 2018 Mazda 3 Touring Hatchback
 
