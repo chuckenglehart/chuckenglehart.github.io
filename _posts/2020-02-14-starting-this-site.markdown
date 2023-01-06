@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: single
 title: "Starting This Site"
 date: 2020-02-14 02:14:00 -0500
 categories: CATEGORY-1 CATEGORY-2
