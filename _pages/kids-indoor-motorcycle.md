@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Kinds Indoor Motorcycle
+title: Kids Indoor Motorcycle
 permalink: /kids-indoor-motorcycle/
 ---
 
