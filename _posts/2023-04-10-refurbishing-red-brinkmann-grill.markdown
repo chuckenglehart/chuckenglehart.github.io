@@ -17,7 +17,7 @@ I started by pulling the grates and flavorizer tubes off, easy. Next was pulling
 A wire brush took most of the grease and soot off. Then a metal brush took most of the remaining grime off. 
 ![Burners Installed](/assets/images/20230408_120650.jpg)
 
-Putting it back together was similarly easy. The burners slid back over the 'deedles', and the screw holes were offset so you know which way was supposed to be up. I used Stainless steel 1/2 inch #10-32 bolts and nuts to attach the crossover tubes and burners to the gril frame.
+Putting it back together was similarly easy. The burners slid back over the 'needles', and the screw holes were offset so you know which way was supposed to be up. I used stainless steel 1/2 inch #10-32 bolts and nuts to attach the crossover tubes and burners to the gril frame.
 ![Burners Installed](/assets/images/20230408_120650.jpg)
 The flavorizer tents are just sitting in place, but I don't expect them to be an issue.  Most of the tabs holding them in place are gone anyway. 
 ![Bars Sitting On Top](/assets/images/20230408_120919.jpg)
@@ -25,7 +25,7 @@ The flavorizer tents are just sitting in place, but I don't expect them to be an
 Reset the regulator , connected propane, and the grill fired right up. The flames are unsuprisingly more even than with the rusted burners. 
 
 Parts:
-BURNER - MCM151405114 15.875 X 1
-HEAT PLATE - MCM959425114 15.1875 X 3.125
-CROSSOVER TUBE - 600-8415-4  2 3/8" x 7 9/16" - 4-7/8" GAP
+BURNER - MCM151405114 15.875 X 1 </br>
+HEAT PLATE - MCM959425114 15.1875 X 3.125 </br>
+CROSSOVER TUBE - 600-8415-4  2 3/8" x 7 9/16" - 4-7/8" GAP </br>
 
