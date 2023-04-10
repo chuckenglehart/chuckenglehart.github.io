@@ -25,7 +25,7 @@ The flavorizer tents are just sitting in place, but I don't expect them to be an
 Reset the regulator , connected propane, and the grill fired right up. The flames are unsuprisingly more even than with the rusted burners. 
 
 Parts:
-BURNER - MCM151405114 15.875 X 1 </br>
-HEAT PLATE - MCM959425114 15.1875 X 3.125 </br>
-CROSSOVER TUBE - 600-8415-4  2 3/8" x 7 9/16" - 4-7/8" GAP </br>
+BURNER - MCM151405114 15.875 X 1  
+HEAT PLATE - MCM959425114 15.1875 X 3.125  
+CROSSOVER TUBE - 600-8415-4  2 3/8" x 7 9/16" - 4-7/8" GAP  
 
