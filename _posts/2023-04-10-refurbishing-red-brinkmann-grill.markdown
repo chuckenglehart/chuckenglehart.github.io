@@ -9,10 +9,10 @@ Back in May 2013 I purchased this grill for $99 from Home Depot. It was on clear
 ![Home Depot Ad](/assets/images/brinkmannGrillAd.png)
 
 The Brinkmann model is 810-1456-S, which does not have good aftermarket parts availabilty. I found that "Adviace Grill Replacement Parts for Brinkmann Pro Series 8300 BBQ" had the correct burners and crossover tubes. The flavorizers were just a little too long and wide. However for $29, the kit was worth it just for the burners and crossovers. 
-![Beginning Condition](/assets/images/20230404_190206.jpg)
+![Beginning Condition](/assets/images/brinkmann_grill_start.jpg)
 
 I started by pulling the grates and flavorizer tubes off, easy. Next was pulling off the burners and crossover tubes. The bolts holding them on were rusted and deteriorated. A dremel took care of that. 
-![Cleaned Sides](/assets/images/20230404_192322.jpg)
+![Cleaned Sides](/assets/images/brinkmann_grill_no_burners.jpg)
 
 A wire brush took most of the grease and soot off. Then a metal brush took most of the remaining grime off. 
 ![Burners Installed](/assets/images/20230408_120650.jpg)
