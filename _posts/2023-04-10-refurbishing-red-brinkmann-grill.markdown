@@ -18,7 +18,7 @@ Putting it back together was similarly easy. The burners slid back over the 'nee
 ![Burners Installed](/assets/images/brinkmann_grill_new_burners.jpg)
 
 The flavorizer tents are just sitting in place, but I don't expect them to be an issue.  Most of the tabs holding them in place are gone anyway. 
-![Bars Sitting On Top](/assets/images/brinkmann_grill_new_flavorizers.jpg)
+![Bars Sitting On Top](/assets/images/brinkmann_grill_new_flavorizer.jpg)
 
 Reset the regulator, connected propane, and the grill fired right up. The flames are unsuprisingly more even than with the rusted burners. 
 
