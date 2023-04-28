@@ -17,6 +17,3 @@ I have a lot of computer projects, but they revolve around two things - [ADS-B t
 Although not much of a gardener, we are trying to landscape in a useful way. The first step was creating a [christmas tree farm]({% link /planting-christmas-tree-seedlings/ %})in the front yard. 
 
 [GitHub]: https://github.com/chuckenglehart/
-
-
-[Link to a file]({% link /assets/files/doc.pdf %})
