@@ -21,5 +21,7 @@ I have mostly used Android devices. Found a great deal on the iPhone 15 Pro, and
 
 
 ## Phone
-
 - Pressing a recent or missed call initiates a call instead of bringing up information about the call.
+
+## Safari
+- Can't choose to open a link in a private tab
