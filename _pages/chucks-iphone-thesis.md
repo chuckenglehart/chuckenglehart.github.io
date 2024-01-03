@@ -11,12 +11,10 @@ I have mostly used Android devices. Found a great deal on the iPhone 15 Pro, and
 
 
 ## iMessage
-
 - No scheduled text messages
 - Can't dl a meme in Safari then attach it to a text.
 
 ## Calendar
-
 - Doesn't open to current date
 
 
@@ -25,3 +23,6 @@ I have mostly used Android devices. Found a great deal on the iPhone 15 Pro, and
 
 ## Safari
 - Can't choose to open a link in a private tab
+
+## Keyboard
+- Cant hold 'm' to insert a '?'
