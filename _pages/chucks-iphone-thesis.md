@@ -23,6 +23,7 @@ I have mostly used Android devices. Found a great deal on the iPhone 15 Pro, and
 
 ## Safari
 - Can't choose to open a link in a private tab
+- Where do downloads go?
 
 ## Keyboard
 - Cant hold 'm' to insert a '?'
